@@ -29,8 +29,8 @@ This project uses historical weather data to build and evaluate multiple machine
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/weather-prediction-model.git
-cd weather-prediction-model
+git clone https://github.com/your-username/Agricultural_Monitoring_usnig_ML.git
+cd CapstoneProject
 pip install -r requirements.txt
 ```
 
