@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Basic Usage
 
 ```python
-python weather_prediction.py --file your_weather_data.xlsx --output results
+python AgriculturalMonitoring.py --file finaldataset.xlsx --output results
 ```
 
 ### Parameters
